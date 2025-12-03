@@ -30,4 +30,4 @@ Currently, mediapipe version is working. Able to calculate arm angles with reaso
 ### TODO:
 - [x] time startup
 - [x] optimize startup
-- [] try other CV implementation
+- [ ] try other CV implementation

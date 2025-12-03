@@ -5,3 +5,5 @@
 # ignore video outputs
 *.mp4
 
+#ignore .venv from powershell
+.venv
